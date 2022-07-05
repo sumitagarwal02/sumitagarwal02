@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sumitagarwal02
-- 👀 I’m interested in artificial intelligence,data science and IoT
+- 👀 I’m interested in Artificial Intelligence,Data Science and IoT
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on research oppurtunities
-- 📫 How to reach me: email id= sumitagarwalsa02@gmail.com linkedin= https://www.linkedin.com/in/sumit-agarwal02 
+- 💞️ I’m looking to collaborate on Research Oppurtunities
+- 📫 How to reach me: Email id= sumitagarwalsa02@gmail.com Linkedin= https://www.linkedin.com/in/sumit-agarwal02 
 
 <!---
 sumitagarwal02/sumitagarwal02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
